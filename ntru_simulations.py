@@ -1,5 +1,6 @@
 import itertools as it
 import sys
+
 from tqdm import tqdm
 
 sys.path.append("../SCA-LDPC/simulate-with-python")
@@ -16,8 +17,8 @@ from simulate.adaptive_tree_coding import (
 from simulate.make_code import generate_regular_ldpc_as_tanner
 from simulate.max_likelihood import (
     SimpleOracle,
-    s_distribution_from_hard_y_adaptive,
     pr_cond_yx_adaptive,
+    s_distribution_from_hard_y_adaptive,
 )
 from simulate_rs import DecoderNTRUW2, DecoderNTRUW4, DecoderNTRUW6
 
@@ -236,7 +237,7 @@ s_prior = list(s_distr_flat for _ in range(n))
 
 TEST_KEYS = 100
 
-keys, collisions = parse_file("private_key_and_collision_info.bin")
+keys, collisions = parse_file("ntru_private_key_and_collision_info.bin")
 differences_arr = []
 oracle_calls_arr = []
 key_num = 0
@@ -281,7 +282,10 @@ for key_idx in tqdm(range(TEST_KEYS), desc="Progress for processing secret keys"
             # )
 
             channel_pmf = np.array(
-                list(pr_cond_yx_adaptive(y, s, pr_oracle, coding_tree) for s in range(-sum_weight, sum_weight+1))
+                list(
+                    pr_cond_yx_adaptive(y, s, pr_oracle, coding_tree)
+                    for s in range(-sum_weight, sum_weight + 1)
+                )
             )
             channel_pmf /= sum(channel_pmf)
 
