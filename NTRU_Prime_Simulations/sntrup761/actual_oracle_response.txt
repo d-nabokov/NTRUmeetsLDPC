@@ -1,0 +1,762 @@
+for NO_TESTS is 0 cond_prob_loop is 0 actual oracle response for each test:
+actual_loop_count:1, actual_oracle_response:0 0 
+actual_loop_count:2, actual_oracle_response:0 0 
+actual_loop_count:3, actual_oracle_response:0 0 
+actual_loop_count:4, actual_oracle_response:0 0 
+actual_loop_count:5, actual_oracle_response:0 -1 0 
+actual_loop_count:6, actual_oracle_response:0 0 
+actual_loop_count:7, actual_oracle_response:-1 0 
+actual_loop_count:8, actual_oracle_response:0 -1 0 
+actual_loop_count:9, actual_oracle_response:0 0 
+actual_loop_count:10, actual_oracle_response:0 0 
+actual_loop_count:11, actual_oracle_response:0 0 
+actual_loop_count:12, actual_oracle_response:0 0 
+actual_loop_count:13, actual_oracle_response:0 -1 0 
+actual_loop_count:14, actual_oracle_response:0 0 
+actual_loop_count:15, actual_oracle_response:-1 0 
+actual_loop_count:16, actual_oracle_response:-1 0 
+actual_loop_count:17, actual_oracle_response:0 -1 0 
+actual_loop_count:18, actual_oracle_response:0 0 
+actual_loop_count:19, actual_oracle_response:0 0 
+actual_loop_count:20, actual_oracle_response:0 0 
+actual_loop_count:21, actual_oracle_response:0 -1 0 
+actual_loop_count:22, actual_oracle_response:-1 0 
+actual_loop_count:23, actual_oracle_response:0 0 
+actual_loop_count:24, actual_oracle_response:0 0 
+actual_loop_count:25, actual_oracle_response:0 -1 0 
+actual_loop_count:26, actual_oracle_response:0 0 
+actual_loop_count:27, actual_oracle_response:0 -1 0 
+actual_loop_count:28, actual_oracle_response:0 -1 0 
+actual_loop_count:29, actual_oracle_response:-1 0 
+actual_loop_count:30, actual_oracle_response:0 0 
+actual_loop_count:31, actual_oracle_response:0 -1 0 
+actual_loop_count:32, actual_oracle_response:-1 0 
+actual_loop_count:33, actual_oracle_response:0 0 
+actual_loop_count:34, actual_oracle_response:0 0 
+actual_loop_count:35, actual_oracle_response:0 0 
+actual_loop_count:36, actual_oracle_response:0 -1 0 
+actual_loop_count:37, actual_oracle_response:0 0 
+actual_loop_count:38, actual_oracle_response:0 -1 0 
+actual_loop_count:39, actual_oracle_response:0 0 
+actual_loop_count:40, actual_oracle_response:0 -1 0 
+actual_loop_count:41, actual_oracle_response:0 0 
+actual_loop_count:42, actual_oracle_response:0 0 
+actual_loop_count:43, actual_oracle_response:0 0 
+actual_loop_count:44, actual_oracle_response:-1 0 
+actual_loop_count:45, actual_oracle_response:0 0 
+actual_loop_count:46, actual_oracle_response:0 0 
+actual_loop_count:47, actual_oracle_response:0 -1 0 
+actual_loop_count:48, actual_oracle_response:0 -1 0 
+actual_loop_count:49, actual_oracle_response:0 0 
+actual_loop_count:50, actual_oracle_response:0 0 
+actual_loop_count:51, actual_oracle_response:-1 0 
+actual_loop_count:52, actual_oracle_response:0 0 
+actual_loop_count:53, actual_oracle_response:-1 0 
+actual_loop_count:54, actual_oracle_response:0 -1 0 
+actual_loop_count:55, actual_oracle_response:0 -1 0 
+actual_loop_count:56, actual_oracle_response:0 0 
+actual_loop_count:57, actual_oracle_response:0 0 
+actual_loop_count:58, actual_oracle_response:-1 0 
+actual_loop_count:59, actual_oracle_response:0 -1 0 
+actual_loop_count:60, actual_oracle_response:-1 0 
+actual_loop_count:61, actual_oracle_response:0 0 
+actual_loop_count:62, actual_oracle_response:-1 0 
+actual_loop_count:63, actual_oracle_response:0 -1 0 
+actual_loop_count:64, actual_oracle_response:-1 0 
+actual_loop_count:65, actual_oracle_response:0 -1 0 
+actual_loop_count:66, actual_oracle_response:0 0 
+actual_loop_count:67, actual_oracle_response:0 0 
+actual_loop_count:68, actual_oracle_response:0 0 
+actual_loop_count:69, actual_oracle_response:0 -1 0 
+actual_loop_count:70, actual_oracle_response:-1 0 
+actual_loop_count:71, actual_oracle_response:0 -1 0 
+actual_loop_count:72, actual_oracle_response:0 0 
+actual_loop_count:73, actual_oracle_response:0 -1 0 
+actual_loop_count:74, actual_oracle_response:0 0 
+actual_loop_count:75, actual_oracle_response:0 0 
+actual_loop_count:76, actual_oracle_response:0 0 
+actual_loop_count:77, actual_oracle_response:0 0 
+actual_loop_count:78, actual_oracle_response:-1 0 
+actual_loop_count:79, actual_oracle_response:-1 0 
+actual_loop_count:80, actual_oracle_response:0 0 
+actual_loop_count:81, actual_oracle_response:0 0 
+actual_loop_count:82, actual_oracle_response:-1 0 
+actual_loop_count:83, actual_oracle_response:0 0 
+actual_loop_count:84, actual_oracle_response:0 0 
+actual_loop_count:85, actual_oracle_response:0 0 
+actual_loop_count:86, actual_oracle_response:0 0 
+actual_loop_count:87, actual_oracle_response:0 0 
+actual_loop_count:88, actual_oracle_response:0 0 
+actual_loop_count:89, actual_oracle_response:-1 0 
+actual_loop_count:90, actual_oracle_response:0 0 
+actual_loop_count:91, actual_oracle_response:0 0 
+actual_loop_count:92, actual_oracle_response:0 0 
+actual_loop_count:93, actual_oracle_response:0 -1 0 
+actual_loop_count:94, actual_oracle_response:0 -1 0 
+actual_loop_count:95, actual_oracle_response:0 0 
+actual_loop_count:96, actual_oracle_response:0 0 
+actual_loop_count:97, actual_oracle_response:0 0 
+actual_loop_count:98, actual_oracle_response:0 0 
+actual_loop_count:99, actual_oracle_response:0 -1 0 
+actual_loop_count:100, actual_oracle_response:0 0 
+actual_loop_count:101, actual_oracle_response:0 -1 0 
+actual_loop_count:102, actual_oracle_response:0 0 
+actual_loop_count:103, actual_oracle_response:-1 0 
+actual_loop_count:104, actual_oracle_response:0 0 
+actual_loop_count:105, actual_oracle_response:0 0 
+actual_loop_count:106, actual_oracle_response:0 0 
+actual_loop_count:107, actual_oracle_response:-1 0 
+actual_loop_count:108, actual_oracle_response:0 0 
+actual_loop_count:109, actual_oracle_response:0 0 
+actual_loop_count:110, actual_oracle_response:0 -1 0 
+actual_loop_count:111, actual_oracle_response:0 0 
+actual_loop_count:112, actual_oracle_response:0 -1 0 
+actual_loop_count:113, actual_oracle_response:0 -1 0 
+actual_loop_count:114, actual_oracle_response:0 -1 0 
+actual_loop_count:115, actual_oracle_response:0 -1 0 
+actual_loop_count:116, actual_oracle_response:0 -1 0 
+actual_loop_count:117, actual_oracle_response:-1 0 
+actual_loop_count:118, actual_oracle_response:-1 0 
+actual_loop_count:119, actual_oracle_response:0 0 
+actual_loop_count:120, actual_oracle_response:0 0 
+actual_loop_count:121, actual_oracle_response:0 -1 0 
+actual_loop_count:122, actual_oracle_response:0 -1 0 
+actual_loop_count:123, actual_oracle_response:0 0 
+actual_loop_count:124, actual_oracle_response:0 0 
+actual_loop_count:125, actual_oracle_response:0 -1 0 
+actual_loop_count:126, actual_oracle_response:0 -1 0 
+actual_loop_count:127, actual_oracle_response:0 0 
+actual_loop_count:128, actual_oracle_response:0 0 
+actual_loop_count:129, actual_oracle_response:0 0 
+actual_loop_count:130, actual_oracle_response:0 0 
+actual_loop_count:131, actual_oracle_response:0 -1 0 
+actual_loop_count:132, actual_oracle_response:0 -1 0 
+actual_loop_count:133, actual_oracle_response:0 -1 0 
+actual_loop_count:134, actual_oracle_response:0 -1 0 
+actual_loop_count:135, actual_oracle_response:0 0 
+actual_loop_count:136, actual_oracle_response:0 0 
+actual_loop_count:137, actual_oracle_response:0 -1 0 
+actual_loop_count:138, actual_oracle_response:0 -1 0 
+actual_loop_count:139, actual_oracle_response:-1 0 
+actual_loop_count:140, actual_oracle_response:-1 -1 
+actual_loop_count:141, actual_oracle_response:-1 -1 
+actual_loop_count:142, actual_oracle_response:-1 0 
+actual_loop_count:143, actual_oracle_response:0 -1 0 
+actual_loop_count:144, actual_oracle_response:0 -1 -1 
+actual_loop_count:145, actual_oracle_response:0 -1 0 
+actual_loop_count:146, actual_oracle_response:-1 0 
+actual_loop_count:147, actual_oracle_response:-1 0 
+actual_loop_count:148, actual_oracle_response:0 0 
+actual_loop_count:149, actual_oracle_response:-1 0 
+actual_loop_count:150, actual_oracle_response:0 0 
+actual_loop_count:151, actual_oracle_response:0 -1 -1 
+actual_loop_count:152, actual_oracle_response:0 0 
+actual_loop_count:153, actual_oracle_response:-1 -1 
+actual_loop_count:154, actual_oracle_response:0 0 
+actual_loop_count:155, actual_oracle_response:0 -1 0 
+actual_loop_count:156, actual_oracle_response:0 -1 0 
+actual_loop_count:157, actual_oracle_response:0 -1 0 
+actual_loop_count:158, actual_oracle_response:0 0 
+actual_loop_count:159, actual_oracle_response:0 0 
+actual_loop_count:160, actual_oracle_response:-1 0 
+actual_loop_count:161, actual_oracle_response:0 0 
+actual_loop_count:162, actual_oracle_response:0 -1 0 
+actual_loop_count:163, actual_oracle_response:0 0 
+actual_loop_count:164, actual_oracle_response:0 0 
+actual_loop_count:165, actual_oracle_response:0 0 
+actual_loop_count:166, actual_oracle_response:0 0 
+actual_loop_count:167, actual_oracle_response:0 0 
+actual_loop_count:168, actual_oracle_response:0 0 
+actual_loop_count:169, actual_oracle_response:-1 0 
+actual_loop_count:170, actual_oracle_response:-1 0 
+actual_loop_count:171, actual_oracle_response:-1 0 
+actual_loop_count:172, actual_oracle_response:-1 -1 
+actual_loop_count:173, actual_oracle_response:0 0 
+actual_loop_count:174, actual_oracle_response:0 -1 -1 
+actual_loop_count:175, actual_oracle_response:0 -1 0 
+actual_loop_count:176, actual_oracle_response:0 0 
+actual_loop_count:177, actual_oracle_response:-1 0 
+actual_loop_count:178, actual_oracle_response:0 0 
+actual_loop_count:179, actual_oracle_response:0 0 
+actual_loop_count:180, actual_oracle_response:-1 -1 
+actual_loop_count:181, actual_oracle_response:-1 0 
+actual_loop_count:182, actual_oracle_response:0 -1 0 
+actual_loop_count:183, actual_oracle_response:0 -1 0 
+actual_loop_count:184, actual_oracle_response:-1 0 
+actual_loop_count:185, actual_oracle_response:-1 0 
+actual_loop_count:186, actual_oracle_response:0 0 
+actual_loop_count:187, actual_oracle_response:0 -1 0 
+actual_loop_count:188, actual_oracle_response:0 -1 0 
+actual_loop_count:189, actual_oracle_response:0 0 
+actual_loop_count:190, actual_oracle_response:0 0 
+actual_loop_count:191, actual_oracle_response:-1 0 
+actual_loop_count:192, actual_oracle_response:-1 0 
+actual_loop_count:193, actual_oracle_response:0 0 
+actual_loop_count:194, actual_oracle_response:0 -1 0 
+actual_loop_count:195, actual_oracle_response:0 0 
+actual_loop_count:196, actual_oracle_response:-1 -1 
+actual_loop_count:197, actual_oracle_response:-1 0 
+actual_loop_count:198, actual_oracle_response:0 -1 0 
+actual_loop_count:199, actual_oracle_response:0 -1 0 
+actual_loop_count:200, actual_oracle_response:0 -1 0 
+actual_loop_count:201, actual_oracle_response:0 -1 -1 
+actual_loop_count:202, actual_oracle_response:0 0 
+actual_loop_count:203, actual_oracle_response:-1 -1 
+actual_loop_count:204, actual_oracle_response:-1 -1 
+actual_loop_count:205, actual_oracle_response:-1 0 
+actual_loop_count:206, actual_oracle_response:0 0 
+actual_loop_count:207, actual_oracle_response:0 0 
+actual_loop_count:208, actual_oracle_response:0 0 
+actual_loop_count:209, actual_oracle_response:0 0 
+actual_loop_count:210, actual_oracle_response:0 0 
+actual_loop_count:211, actual_oracle_response:0 0 
+actual_loop_count:212, actual_oracle_response:0 0 
+actual_loop_count:213, actual_oracle_response:0 0 
+actual_loop_count:214, actual_oracle_response:0 0 
+actual_loop_count:215, actual_oracle_response:0 0 
+actual_loop_count:216, actual_oracle_response:0 0 
+actual_loop_count:217, actual_oracle_response:0 0 
+actual_loop_count:218, actual_oracle_response:0 0 
+actual_loop_count:219, actual_oracle_response:0 0 
+actual_loop_count:220, actual_oracle_response:0 0 
+actual_loop_count:221, actual_oracle_response:0 0 
+actual_loop_count:222, actual_oracle_response:0 -1 0 
+actual_loop_count:223, actual_oracle_response:0 -1 0 
+actual_loop_count:224, actual_oracle_response:0 0 
+actual_loop_count:225, actual_oracle_response:0 0 
+actual_loop_count:226, actual_oracle_response:0 0 
+actual_loop_count:227, actual_oracle_response:0 0 
+actual_loop_count:228, actual_oracle_response:0 -1 0 
+actual_loop_count:229, actual_oracle_response:0 -1 0 
+actual_loop_count:230, actual_oracle_response:0 0 
+actual_loop_count:231, actual_oracle_response:0 0 
+actual_loop_count:232, actual_oracle_response:-1 0 
+actual_loop_count:233, actual_oracle_response:-1 0 
+actual_loop_count:234, actual_oracle_response:0 -1 0 
+actual_loop_count:235, actual_oracle_response:0 0 
+actual_loop_count:236, actual_oracle_response:-1 0 
+actual_loop_count:237, actual_oracle_response:0 -1 0 
+actual_loop_count:238, actual_oracle_response:0 0 
+actual_loop_count:239, actual_oracle_response:0 0 
+actual_loop_count:240, actual_oracle_response:0 -1 0 
+actual_loop_count:241, actual_oracle_response:-1 0 
+actual_loop_count:242, actual_oracle_response:-1 0 
+actual_loop_count:243, actual_oracle_response:0 0 
+actual_loop_count:244, actual_oracle_response:-1 0 
+actual_loop_count:245, actual_oracle_response:-1 0 
+actual_loop_count:246, actual_oracle_response:0 0 
+actual_loop_count:247, actual_oracle_response:0 0 
+actual_loop_count:248, actual_oracle_response:0 -1 0 
+actual_loop_count:249, actual_oracle_response:0 0 
+actual_loop_count:250, actual_oracle_response:-1 -1 
+actual_loop_count:251, actual_oracle_response:-1 0 
+actual_loop_count:252, actual_oracle_response:0 0 
+actual_loop_count:253, actual_oracle_response:0 0 
+actual_loop_count:254, actual_oracle_response:-1 0 
+actual_loop_count:255, actual_oracle_response:-1 -1 
+actual_loop_count:256, actual_oracle_response:-1 -1 
+actual_loop_count:257, actual_oracle_response:-1 0 
+actual_loop_count:258, actual_oracle_response:0 -1 0 
+actual_loop_count:259, actual_oracle_response:0 0 
+actual_loop_count:260, actual_oracle_response:0 0 
+actual_loop_count:261, actual_oracle_response:0 0 
+actual_loop_count:262, actual_oracle_response:0 0 
+actual_loop_count:263, actual_oracle_response:0 -1 0 
+actual_loop_count:264, actual_oracle_response:0 -1 0 
+actual_loop_count:265, actual_oracle_response:0 0 
+actual_loop_count:266, actual_oracle_response:-1 0 
+actual_loop_count:267, actual_oracle_response:0 0 
+actual_loop_count:268, actual_oracle_response:0 0 
+actual_loop_count:269, actual_oracle_response:0 -1 0 
+actual_loop_count:270, actual_oracle_response:0 -1 -1 
+actual_loop_count:271, actual_oracle_response:0 -1 0 
+actual_loop_count:272, actual_oracle_response:0 0 
+actual_loop_count:273, actual_oracle_response:0 -1 0 
+actual_loop_count:274, actual_oracle_response:0 -1 -1 
+actual_loop_count:275, actual_oracle_response:0 -1 0 
+actual_loop_count:276, actual_oracle_response:0 0 
+actual_loop_count:277, actual_oracle_response:0 -1 0 
+actual_loop_count:278, actual_oracle_response:0 -1 0 
+actual_loop_count:279, actual_oracle_response:0 0 
+actual_loop_count:280, actual_oracle_response:0 0 
+actual_loop_count:281, actual_oracle_response:-1 0 
+actual_loop_count:282, actual_oracle_response:-1 0 
+actual_loop_count:283, actual_oracle_response:-1 0 
+actual_loop_count:284, actual_oracle_response:-1 0 
+actual_loop_count:285, actual_oracle_response:0 0 
+actual_loop_count:286, actual_oracle_response:0 0 
+actual_loop_count:287, actual_oracle_response:0 0 
+actual_loop_count:288, actual_oracle_response:0 0 
+actual_loop_count:289, actual_oracle_response:0 0 
+actual_loop_count:290, actual_oracle_response:-1 0 
+actual_loop_count:291, actual_oracle_response:0 0 
+actual_loop_count:292, actual_oracle_response:0 -1 0 
+actual_loop_count:293, actual_oracle_response:0 0 
+actual_loop_count:294, actual_oracle_response:0 0 
+actual_loop_count:295, actual_oracle_response:0 0 
+actual_loop_count:296, actual_oracle_response:-1 0 
+actual_loop_count:297, actual_oracle_response:-1 -1 
+actual_loop_count:298, actual_oracle_response:-1 0 
+actual_loop_count:299, actual_oracle_response:0 0 
+actual_loop_count:300, actual_oracle_response:0 0 
+actual_loop_count:301, actual_oracle_response:-1 0 
+actual_loop_count:302, actual_oracle_response:-1 0 
+actual_loop_count:303, actual_oracle_response:0 0 
+actual_loop_count:304, actual_oracle_response:0 0 
+actual_loop_count:305, actual_oracle_response:0 0 
+actual_loop_count:306, actual_oracle_response:0 0 
+actual_loop_count:307, actual_oracle_response:0 0 
+actual_loop_count:308, actual_oracle_response:-1 0 
+actual_loop_count:309, actual_oracle_response:-1 0 
+actual_loop_count:310, actual_oracle_response:0 0 
+actual_loop_count:311, actual_oracle_response:0 0 
+actual_loop_count:312, actual_oracle_response:0 0 
+actual_loop_count:313, actual_oracle_response:0 0 
+actual_loop_count:314, actual_oracle_response:0 0 
+actual_loop_count:315, actual_oracle_response:-1 0 
+actual_loop_count:316, actual_oracle_response:-1 0 
+actual_loop_count:317, actual_oracle_response:0 0 
+actual_loop_count:318, actual_oracle_response:0 0 
+actual_loop_count:319, actual_oracle_response:-1 0 
+actual_loop_count:320, actual_oracle_response:-1 0 
+actual_loop_count:321, actual_oracle_response:0 -1 0 
+actual_loop_count:322, actual_oracle_response:0 0 
+actual_loop_count:323, actual_oracle_response:-1 0 
+actual_loop_count:324, actual_oracle_response:0 0 
+actual_loop_count:325, actual_oracle_response:0 0 
+actual_loop_count:326, actual_oracle_response:0 -1 0 
+actual_loop_count:327, actual_oracle_response:0 -1 -1 
+actual_loop_count:328, actual_oracle_response:0 -1 0 
+actual_loop_count:329, actual_oracle_response:0 0 
+actual_loop_count:330, actual_oracle_response:0 -1 0 
+actual_loop_count:331, actual_oracle_response:0 -1 -1 
+actual_loop_count:332, actual_oracle_response:0 -1 -1 
+actual_loop_count:333, actual_oracle_response:0 -1 0 
+actual_loop_count:334, actual_oracle_response:0 0 
+actual_loop_count:335, actual_oracle_response:-1 0 
+actual_loop_count:336, actual_oracle_response:-1 0 
+actual_loop_count:337, actual_oracle_response:0 0 
+actual_loop_count:338, actual_oracle_response:0 0 
+actual_loop_count:339, actual_oracle_response:0 0 
+actual_loop_count:340, actual_oracle_response:0 -1 0 
+actual_loop_count:341, actual_oracle_response:0 -1 -1 
+actual_loop_count:342, actual_oracle_response:0 -1 0 
+actual_loop_count:343, actual_oracle_response:0 -1 0 
+actual_loop_count:344, actual_oracle_response:0 -1 0 
+actual_loop_count:345, actual_oracle_response:0 -1 0 
+actual_loop_count:346, actual_oracle_response:0 -1 0 
+actual_loop_count:347, actual_oracle_response:-1 0 
+actual_loop_count:348, actual_oracle_response:-1 0 
+actual_loop_count:349, actual_oracle_response:-1 0 
+actual_loop_count:350, actual_oracle_response:-1 0 
+actual_loop_count:351, actual_oracle_response:-1 0 
+actual_loop_count:352, actual_oracle_response:-1 0 
+actual_loop_count:353, actual_oracle_response:0 -1 0 
+actual_loop_count:354, actual_oracle_response:0 -1 0 
+actual_loop_count:355, actual_oracle_response:0 0 
+actual_loop_count:356, actual_oracle_response:0 0 
+actual_loop_count:357, actual_oracle_response:0 0 
+actual_loop_count:358, actual_oracle_response:0 0 
+actual_loop_count:359, actual_oracle_response:0 0 
+actual_loop_count:360, actual_oracle_response:0 0 
+actual_loop_count:361, actual_oracle_response:0 -1 0 
+actual_loop_count:362, actual_oracle_response:0 -1 0 
+actual_loop_count:363, actual_oracle_response:0 0 
+actual_loop_count:364, actual_oracle_response:0 0 
+actual_loop_count:365, actual_oracle_response:0 0 
+actual_loop_count:366, actual_oracle_response:0 -1 0 
+actual_loop_count:367, actual_oracle_response:0 0 
+actual_loop_count:368, actual_oracle_response:-1 -1 
+actual_loop_count:369, actual_oracle_response:-1 0 
+actual_loop_count:370, actual_oracle_response:-1 0 
+actual_loop_count:371, actual_oracle_response:-1 -1 
+actual_loop_count:372, actual_oracle_response:-1 0 
+actual_loop_count:373, actual_oracle_response:0 0 
+actual_loop_count:374, actual_oracle_response:0 0 
+actual_loop_count:375, actual_oracle_response:0 0 
+actual_loop_count:376, actual_oracle_response:0 0 
+actual_loop_count:377, actual_oracle_response:0 0 
+actual_loop_count:378, actual_oracle_response:0 0 
+actual_loop_count:379, actual_oracle_response:-1 0 
+actual_loop_count:380, actual_oracle_response:-1 0 
+actual_loop_count:381, actual_oracle_response:0 -1 0 
+actual_loop_count:382, actual_oracle_response:0 -1 0 
+actual_loop_count:383, actual_oracle_response:-1 0 
+actual_loop_count:384, actual_oracle_response:-1 0 
+actual_loop_count:385, actual_oracle_response:0 0 
+actual_loop_count:386, actual_oracle_response:0 0 
+actual_loop_count:387, actual_oracle_response:0 -1 0 
+actual_loop_count:388, actual_oracle_response:0 -1 -1 
+actual_loop_count:389, actual_oracle_response:0 -1 0 
+actual_loop_count:390, actual_oracle_response:0 0 
+actual_loop_count:391, actual_oracle_response:0 0 
+actual_loop_count:392, actual_oracle_response:0 -1 0 
+actual_loop_count:393, actual_oracle_response:0 -1 0 
+actual_loop_count:394, actual_oracle_response:-1 0 
+actual_loop_count:395, actual_oracle_response:-1 0 
+actual_loop_count:396, actual_oracle_response:-1 0 
+actual_loop_count:397, actual_oracle_response:-1 0 
+actual_loop_count:398, actual_oracle_response:-1 0 
+actual_loop_count:399, actual_oracle_response:0 0 
+actual_loop_count:400, actual_oracle_response:0 -1 0 
+actual_loop_count:401, actual_oracle_response:0 0 
+actual_loop_count:402, actual_oracle_response:-1 0 
+actual_loop_count:403, actual_oracle_response:-1 -1 
+actual_loop_count:404, actual_oracle_response:-1 -1 
+actual_loop_count:405, actual_oracle_response:-1 0 
+actual_loop_count:406, actual_oracle_response:0 -1 0 
+actual_loop_count:407, actual_oracle_response:0 -1 0 
+actual_loop_count:408, actual_oracle_response:0 0 
+actual_loop_count:409, actual_oracle_response:-1 0 
+actual_loop_count:410, actual_oracle_response:-1 0 
+actual_loop_count:411, actual_oracle_response:-1 0 
+actual_loop_count:412, actual_oracle_response:-1 0 
+actual_loop_count:413, actual_oracle_response:0 0 
+actual_loop_count:414, actual_oracle_response:0 0 
+actual_loop_count:415, actual_oracle_response:0 -1 0 
+actual_loop_count:416, actual_oracle_response:0 -1 0 
+actual_loop_count:417, actual_oracle_response:0 0 
+actual_loop_count:418, actual_oracle_response:0 -1 0 
+actual_loop_count:419, actual_oracle_response:0 -1 0 
+actual_loop_count:420, actual_oracle_response:0 -1 0 
+actual_loop_count:421, actual_oracle_response:0 0 
+actual_loop_count:422, actual_oracle_response:-1 0 
+actual_loop_count:423, actual_oracle_response:0 0 
+actual_loop_count:424, actual_oracle_response:0 0 
+actual_loop_count:425, actual_oracle_response:0 0 
+actual_loop_count:426, actual_oracle_response:0 0 
+actual_loop_count:427, actual_oracle_response:0 -1 0 
+actual_loop_count:428, actual_oracle_response:0 0 
+actual_loop_count:429, actual_oracle_response:-1 0 
+actual_loop_count:430, actual_oracle_response:0 0 
+actual_loop_count:431, actual_oracle_response:0 0 
+actual_loop_count:432, actual_oracle_response:0 0 
+actual_loop_count:433, actual_oracle_response:0 0 
+actual_loop_count:434, actual_oracle_response:-1 0 
+actual_loop_count:435, actual_oracle_response:0 0 
+actual_loop_count:436, actual_oracle_response:0 -1 0 
+actual_loop_count:437, actual_oracle_response:0 0 
+actual_loop_count:438, actual_oracle_response:0 0 
+actual_loop_count:439, actual_oracle_response:0 0 
+actual_loop_count:440, actual_oracle_response:0 0 
+actual_loop_count:441, actual_oracle_response:0 0 
+actual_loop_count:442, actual_oracle_response:-1 0 
+actual_loop_count:443, actual_oracle_response:-1 0 
+actual_loop_count:444, actual_oracle_response:0 0 
+actual_loop_count:445, actual_oracle_response:-1 0 
+actual_loop_count:446, actual_oracle_response:-1 -1 
+actual_loop_count:447, actual_oracle_response:-1 -1 
+actual_loop_count:448, actual_oracle_response:-1 0 
+actual_loop_count:449, actual_oracle_response:0 0 
+actual_loop_count:450, actual_oracle_response:0 0 
+actual_loop_count:451, actual_oracle_response:0 0 
+actual_loop_count:452, actual_oracle_response:0 0 
+actual_loop_count:453, actual_oracle_response:0 0 
+actual_loop_count:454, actual_oracle_response:0 0 
+actual_loop_count:455, actual_oracle_response:0 0 
+actual_loop_count:456, actual_oracle_response:0 -1 0 
+actual_loop_count:457, actual_oracle_response:0 -1 -1 
+actual_loop_count:458, actual_oracle_response:0 0 
+actual_loop_count:459, actual_oracle_response:-1 0 
+actual_loop_count:460, actual_oracle_response:0 0 
+actual_loop_count:461, actual_oracle_response:-1 0 
+actual_loop_count:462, actual_oracle_response:-1 -1 
+actual_loop_count:463, actual_oracle_response:-1 -1 
+actual_loop_count:464, actual_oracle_response:0 0 
+actual_loop_count:465, actual_oracle_response:0 -1 0 
+actual_loop_count:466, actual_oracle_response:0 -1 0 
+actual_loop_count:467, actual_oracle_response:0 -1 0 
+actual_loop_count:468, actual_oracle_response:0 0 
+actual_loop_count:469, actual_oracle_response:0 -1 0 
+actual_loop_count:470, actual_oracle_response:0 -1 0 
+actual_loop_count:471, actual_oracle_response:0 0 
+actual_loop_count:472, actual_oracle_response:0 -1 0 
+actual_loop_count:473, actual_oracle_response:0 -1 -1 
+actual_loop_count:474, actual_oracle_response:0 -1 0 
+actual_loop_count:475, actual_oracle_response:-1 0 
+actual_loop_count:476, actual_oracle_response:-1 0 
+actual_loop_count:477, actual_oracle_response:0 0 
+actual_loop_count:478, actual_oracle_response:0 0 
+actual_loop_count:479, actual_oracle_response:0 0 
+actual_loop_count:480, actual_oracle_response:-1 0 
+actual_loop_count:481, actual_oracle_response:-1 0 
+actual_loop_count:482, actual_oracle_response:0 0 
+actual_loop_count:483, actual_oracle_response:-1 0 
+actual_loop_count:484, actual_oracle_response:-1 0 
+actual_loop_count:485, actual_oracle_response:-1 0 
+actual_loop_count:486, actual_oracle_response:-1 0 
+actual_loop_count:487, actual_oracle_response:0 0 
+actual_loop_count:488, actual_oracle_response:0 -1 0 
+actual_loop_count:489, actual_oracle_response:0 -1 0 
+actual_loop_count:490, actual_oracle_response:0 0 
+actual_loop_count:491, actual_oracle_response:-1 0 
+actual_loop_count:492, actual_oracle_response:-1 -1 
+actual_loop_count:493, actual_oracle_response:-1 0 
+actual_loop_count:494, actual_oracle_response:0 0 
+actual_loop_count:495, actual_oracle_response:0 0 
+actual_loop_count:496, actual_oracle_response:0 0 
+actual_loop_count:497, actual_oracle_response:0 0 
+actual_loop_count:498, actual_oracle_response:0 -1 0 
+actual_loop_count:499, actual_oracle_response:0 -1 0 
+actual_loop_count:500, actual_oracle_response:0 0 
+actual_loop_count:501, actual_oracle_response:0 0 
+actual_loop_count:502, actual_oracle_response:0 -1 0 
+actual_loop_count:503, actual_oracle_response:0 -1 -1 
+actual_loop_count:504, actual_oracle_response:0 0 
+actual_loop_count:505, actual_oracle_response:-1 0 
+actual_loop_count:506, actual_oracle_response:0 -1 0 
+actual_loop_count:507, actual_oracle_response:0 -1 0 
+actual_loop_count:508, actual_oracle_response:0 0 
+actual_loop_count:509, actual_oracle_response:0 0 
+actual_loop_count:510, actual_oracle_response:0 0 
+actual_loop_count:511, actual_oracle_response:0 0 
+actual_loop_count:512, actual_oracle_response:0 0 
+actual_loop_count:513, actual_oracle_response:0 0 
+actual_loop_count:514, actual_oracle_response:0 0 
+actual_loop_count:515, actual_oracle_response:-1 0 
+actual_loop_count:516, actual_oracle_response:-1 0 
+actual_loop_count:517, actual_oracle_response:0 0 
+actual_loop_count:518, actual_oracle_response:0 0 
+actual_loop_count:519, actual_oracle_response:0 0 
+actual_loop_count:520, actual_oracle_response:0 0 
+actual_loop_count:521, actual_oracle_response:0 0 
+actual_loop_count:522, actual_oracle_response:0 0 
+actual_loop_count:523, actual_oracle_response:0 0 
+actual_loop_count:524, actual_oracle_response:0 0 
+actual_loop_count:525, actual_oracle_response:0 0 
+actual_loop_count:526, actual_oracle_response:0 -1 0 
+actual_loop_count:527, actual_oracle_response:0 -1 0 
+actual_loop_count:528, actual_oracle_response:0 -1 0 
+actual_loop_count:529, actual_oracle_response:0 -1 0 
+actual_loop_count:530, actual_oracle_response:0 0 
+actual_loop_count:531, actual_oracle_response:0 0 
+actual_loop_count:532, actual_oracle_response:0 -1 0 
+actual_loop_count:533, actual_oracle_response:0 -1 0 
+actual_loop_count:534, actual_oracle_response:0 -1 0 
+actual_loop_count:535, actual_oracle_response:0 -1 -1 
+actual_loop_count:536, actual_oracle_response:0 -1 0 
+actual_loop_count:537, actual_oracle_response:-1 0 
+actual_loop_count:538, actual_oracle_response:0 0 
+actual_loop_count:539, actual_oracle_response:0 -1 0 
+actual_loop_count:540, actual_oracle_response:0 0 
+actual_loop_count:541, actual_oracle_response:-1 0 
+actual_loop_count:542, actual_oracle_response:-1 -1 
+actual_loop_count:543, actual_oracle_response:0 0 
+actual_loop_count:544, actual_oracle_response:0 -1 0 
+actual_loop_count:545, actual_oracle_response:0 0 
+actual_loop_count:546, actual_oracle_response:0 0 
+actual_loop_count:547, actual_oracle_response:0 -1 0 
+actual_loop_count:548, actual_oracle_response:0 -1 0 
+actual_loop_count:549, actual_oracle_response:0 0 
+actual_loop_count:550, actual_oracle_response:0 0 
+actual_loop_count:551, actual_oracle_response:0 0 
+actual_loop_count:552, actual_oracle_response:0 0 
+actual_loop_count:553, actual_oracle_response:0 0 
+actual_loop_count:554, actual_oracle_response:0 -1 0 
+actual_loop_count:555, actual_oracle_response:0 -1 0 
+actual_loop_count:556, actual_oracle_response:-1 0 
+actual_loop_count:557, actual_oracle_response:-1 -1 
+actual_loop_count:558, actual_oracle_response:-1 -1 
+actual_loop_count:559, actual_oracle_response:-1 -1 
+actual_loop_count:560, actual_oracle_response:-1 -1 
+actual_loop_count:561, actual_oracle_response:0 0 
+actual_loop_count:562, actual_oracle_response:0 -1 -1 
+actual_loop_count:563, actual_oracle_response:0 -1 0 
+actual_loop_count:564, actual_oracle_response:0 0 
+actual_loop_count:565, actual_oracle_response:0 0 
+actual_loop_count:566, actual_oracle_response:0 0 
+actual_loop_count:567, actual_oracle_response:0 0 
+actual_loop_count:568, actual_oracle_response:0 0 
+actual_loop_count:569, actual_oracle_response:0 0 
+actual_loop_count:570, actual_oracle_response:-1 0 
+actual_loop_count:571, actual_oracle_response:-1 0 
+actual_loop_count:572, actual_oracle_response:0 0 
+actual_loop_count:573, actual_oracle_response:0 0 
+actual_loop_count:574, actual_oracle_response:0 0 
+actual_loop_count:575, actual_oracle_response:0 -1 0 
+actual_loop_count:576, actual_oracle_response:0 0 
+actual_loop_count:577, actual_oracle_response:-1 0 
+actual_loop_count:578, actual_oracle_response:0 -1 0 
+actual_loop_count:579, actual_oracle_response:0 -1 0 
+actual_loop_count:580, actual_oracle_response:0 0 
+actual_loop_count:581, actual_oracle_response:0 0 
+actual_loop_count:582, actual_oracle_response:0 0 
+actual_loop_count:583, actual_oracle_response:0 -1 0 
+actual_loop_count:584, actual_oracle_response:0 -1 0 
+actual_loop_count:585, actual_oracle_response:0 -1 0 
+actual_loop_count:586, actual_oracle_response:0 0 
+actual_loop_count:587, actual_oracle_response:-1 0 
+actual_loop_count:588, actual_oracle_response:0 0 
+actual_loop_count:589, actual_oracle_response:0 0 
+actual_loop_count:590, actual_oracle_response:0 -1 0 
+actual_loop_count:591, actual_oracle_response:0 -1 0 
+actual_loop_count:592, actual_oracle_response:-1 0 
+actual_loop_count:593, actual_oracle_response:-1 0 
+actual_loop_count:594, actual_oracle_response:0 0 
+actual_loop_count:595, actual_oracle_response:0 -1 0 
+actual_loop_count:596, actual_oracle_response:0 0 
+actual_loop_count:597, actual_oracle_response:-1 0 
+actual_loop_count:598, actual_oracle_response:0 0 
+actual_loop_count:599, actual_oracle_response:0 -1 0 
+actual_loop_count:600, actual_oracle_response:0 -1 -1 
+actual_loop_count:601, actual_oracle_response:0 0 
+actual_loop_count:602, actual_oracle_response:-1 0 
+actual_loop_count:603, actual_oracle_response:0 0 
+actual_loop_count:604, actual_oracle_response:0 0 
+actual_loop_count:605, actual_oracle_response:0 0 
+actual_loop_count:606, actual_oracle_response:0 -1 0 
+actual_loop_count:607, actual_oracle_response:0 -1 0 
+actual_loop_count:608, actual_oracle_response:0 -1 0 
+actual_loop_count:609, actual_oracle_response:0 -1 0 
+actual_loop_count:610, actual_oracle_response:0 0 
+actual_loop_count:611, actual_oracle_response:0 0 
+actual_loop_count:612, actual_oracle_response:0 0 
+actual_loop_count:613, actual_oracle_response:0 0 
+actual_loop_count:614, actual_oracle_response:0 -1 0 
+actual_loop_count:615, actual_oracle_response:0 -1 0 
+actual_loop_count:616, actual_oracle_response:0 0 
+actual_loop_count:617, actual_oracle_response:-1 0 
+actual_loop_count:618, actual_oracle_response:-1 0 
+actual_loop_count:619, actual_oracle_response:0 0 
+actual_loop_count:620, actual_oracle_response:0 0 
+actual_loop_count:621, actual_oracle_response:0 0 
+actual_loop_count:622, actual_oracle_response:0 -1 0 
+actual_loop_count:623, actual_oracle_response:0 -1 0 
+actual_loop_count:624, actual_oracle_response:0 -1 0 
+actual_loop_count:625, actual_oracle_response:0 -1 0 
+actual_loop_count:626, actual_oracle_response:-1 0 
+actual_loop_count:627, actual_oracle_response:-1 0 
+actual_loop_count:628, actual_oracle_response:0 0 
+actual_loop_count:629, actual_oracle_response:0 0 
+actual_loop_count:630, actual_oracle_response:0 0 
+actual_loop_count:631, actual_oracle_response:0 0 
+actual_loop_count:632, actual_oracle_response:0 -1 0 
+actual_loop_count:633, actual_oracle_response:0 -1 0 
+actual_loop_count:634, actual_oracle_response:0 -1 0 
+actual_loop_count:635, actual_oracle_response:0 -1 -1 
+actual_loop_count:636, actual_oracle_response:0 -1 0 
+actual_loop_count:637, actual_oracle_response:-1 0 
+actual_loop_count:638, actual_oracle_response:-1 -1 
+actual_loop_count:639, actual_oracle_response:-1 0 
+actual_loop_count:640, actual_oracle_response:0 0 
+actual_loop_count:641, actual_oracle_response:0 0 
+actual_loop_count:642, actual_oracle_response:0 -1 0 
+actual_loop_count:643, actual_oracle_response:0 -1 0 
+actual_loop_count:644, actual_oracle_response:0 0 
+actual_loop_count:645, actual_oracle_response:-1 0 
+actual_loop_count:646, actual_oracle_response:-1 0 
+actual_loop_count:647, actual_oracle_response:0 -1 0 
+actual_loop_count:648, actual_oracle_response:0 -1 0 
+actual_loop_count:649, actual_oracle_response:0 0 
+actual_loop_count:650, actual_oracle_response:0 -1 0 
+actual_loop_count:651, actual_oracle_response:0 0 
+actual_loop_count:652, actual_oracle_response:0 0 
+actual_loop_count:653, actual_oracle_response:0 0 
+actual_loop_count:654, actual_oracle_response:-1 0 
+actual_loop_count:655, actual_oracle_response:0 0 
+actual_loop_count:656, actual_oracle_response:0 0 
+actual_loop_count:657, actual_oracle_response:0 0 
+actual_loop_count:658, actual_oracle_response:0 0 
+actual_loop_count:659, actual_oracle_response:0 0 
+actual_loop_count:660, actual_oracle_response:0 0 
+actual_loop_count:661, actual_oracle_response:0 0 
+actual_loop_count:662, actual_oracle_response:-1 0 
+actual_loop_count:663, actual_oracle_response:-1 0 
+actual_loop_count:664, actual_oracle_response:-1 0 
+actual_loop_count:665, actual_oracle_response:-1 -1 
+actual_loop_count:666, actual_oracle_response:-1 0 
+actual_loop_count:667, actual_oracle_response:0 0 
+actual_loop_count:668, actual_oracle_response:-1 0 
+actual_loop_count:669, actual_oracle_response:-1 -1 
+actual_loop_count:670, actual_oracle_response:-1 0 
+actual_loop_count:671, actual_oracle_response:0 0 
+actual_loop_count:672, actual_oracle_response:0 0 
+actual_loop_count:673, actual_oracle_response:-1 0 
+actual_loop_count:674, actual_oracle_response:-1 -1 
+actual_loop_count:675, actual_oracle_response:-1 0 
+actual_loop_count:676, actual_oracle_response:0 0 
+actual_loop_count:677, actual_oracle_response:0 0 
+actual_loop_count:678, actual_oracle_response:0 0 
+actual_loop_count:679, actual_oracle_response:0 0 
+actual_loop_count:680, actual_oracle_response:0 0 
+actual_loop_count:681, actual_oracle_response:0 0 
+actual_loop_count:682, actual_oracle_response:0 0 
+actual_loop_count:683, actual_oracle_response:0 0 
+actual_loop_count:684, actual_oracle_response:0 -1 0 
+actual_loop_count:685, actual_oracle_response:0 0 
+actual_loop_count:686, actual_oracle_response:-1 0 
+actual_loop_count:687, actual_oracle_response:0 0 
+actual_loop_count:688, actual_oracle_response:0 0 
+actual_loop_count:689, actual_oracle_response:0 0 
+actual_loop_count:690, actual_oracle_response:-1 0 
+actual_loop_count:691, actual_oracle_response:-1 -1 
+actual_loop_count:692, actual_oracle_response:-1 0 
+actual_loop_count:693, actual_oracle_response:0 0 
+actual_loop_count:694, actual_oracle_response:0 0 
+actual_loop_count:695, actual_oracle_response:0 0 
+actual_loop_count:696, actual_oracle_response:-1 0 
+actual_loop_count:697, actual_oracle_response:-1 0 
+actual_loop_count:698, actual_oracle_response:0 0 
+actual_loop_count:699, actual_oracle_response:0 0 
+actual_loop_count:700, actual_oracle_response:0 0 
+actual_loop_count:701, actual_oracle_response:0 0 
+actual_loop_count:702, actual_oracle_response:-1 0 
+actual_loop_count:703, actual_oracle_response:-1 0 
+actual_loop_count:704, actual_oracle_response:0 0 
+actual_loop_count:705, actual_oracle_response:0 0 
+actual_loop_count:706, actual_oracle_response:0 0 
+actual_loop_count:707, actual_oracle_response:0 0 
+actual_loop_count:708, actual_oracle_response:0 0 
+actual_loop_count:709, actual_oracle_response:-1 0 
+actual_loop_count:710, actual_oracle_response:-1 -1 
+actual_loop_count:711, actual_oracle_response:0 0 
+actual_loop_count:712, actual_oracle_response:0 -1 0 
+actual_loop_count:713, actual_oracle_response:0 -1 0 
+actual_loop_count:714, actual_oracle_response:0 -1 0 
+actual_loop_count:715, actual_oracle_response:0 0 
+actual_loop_count:716, actual_oracle_response:0 0 
+actual_loop_count:717, actual_oracle_response:-1 0 
+actual_loop_count:718, actual_oracle_response:-1 0 
+actual_loop_count:719, actual_oracle_response:0 0 
+actual_loop_count:720, actual_oracle_response:0 0 
+actual_loop_count:721, actual_oracle_response:0 0 
+actual_loop_count:722, actual_oracle_response:0 0 
+actual_loop_count:723, actual_oracle_response:0 0 
+actual_loop_count:724, actual_oracle_response:-1 0 
+actual_loop_count:725, actual_oracle_response:-1 0 
+actual_loop_count:726, actual_oracle_response:0 -1 0 
+actual_loop_count:727, actual_oracle_response:0 -1 0 
+actual_loop_count:728, actual_oracle_response:0 0 
+actual_loop_count:729, actual_oracle_response:0 0 
+actual_loop_count:730, actual_oracle_response:0 0 
+actual_loop_count:731, actual_oracle_response:0 0 
+actual_loop_count:732, actual_oracle_response:0 0 
+actual_loop_count:733, actual_oracle_response:0 0 
+actual_loop_count:734, actual_oracle_response:0 0 
+actual_loop_count:735, actual_oracle_response:0 0 
+actual_loop_count:736, actual_oracle_response:0 0 
+actual_loop_count:737, actual_oracle_response:-1 0 
+actual_loop_count:738, actual_oracle_response:0 0 
+actual_loop_count:739, actual_oracle_response:0 0 
+actual_loop_count:740, actual_oracle_response:-1 0 
+actual_loop_count:741, actual_oracle_response:-1 0 
+actual_loop_count:742, actual_oracle_response:0 0 
+actual_loop_count:743, actual_oracle_response:0 -1 0 
+actual_loop_count:744, actual_oracle_response:0 0 
+actual_loop_count:745, actual_oracle_response:0 0 
+actual_loop_count:746, actual_oracle_response:0 0 
+actual_loop_count:747, actual_oracle_response:-1 0 
+actual_loop_count:748, actual_oracle_response:0 0 
+actual_loop_count:749, actual_oracle_response:0 -1 0 
+actual_loop_count:750, actual_oracle_response:0 0 
+actual_loop_count:751, actual_oracle_response:0 0 
+actual_loop_count:752, actual_oracle_response:-1 0 
+actual_loop_count:753, actual_oracle_response:0 0 
+actual_loop_count:754, actual_oracle_response:0 -1 0 
+actual_loop_count:755, actual_oracle_response:0 0 
+actual_loop_count:756, actual_oracle_response:0 0 
+actual_loop_count:757, actual_oracle_response:0 0 
+actual_loop_count:758, actual_oracle_response:0 0 
+actual_loop_count:759, actual_oracle_response:0 0 
+actual_loop_count:760, actual_oracle_response:0 0 
+actual_loop_count:761, actual_oracle_response:0 0 

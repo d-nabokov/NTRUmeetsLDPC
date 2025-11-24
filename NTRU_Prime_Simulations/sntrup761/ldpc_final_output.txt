@@ -1,0 +1,2 @@
+for NO_TESTS is 0 cond_prob_loop is 0 Assuming collision index is 111
+For key 0 have total 0 errors:

@@ -1,0 +1,762 @@
+for NO_TESTS is 0 cond_prob_loop is 0 beta_u and theoretical oracle response for each test:
+theoretical_loop_count:1, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:2, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:3, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:4, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:5, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:6, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:7, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:8, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:9, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:10, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:11, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:12, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:13, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:14, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:15, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:16, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:17, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:18, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:19, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:20, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:21, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:22, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:23, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:24, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:25, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:26, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:27, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:28, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:29, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:30, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:31, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:32, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:33, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:34, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:35, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:36, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:37, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:38, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:39, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:40, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:41, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:42, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:43, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:44, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:45, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:46, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:47, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:48, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:49, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:50, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:51, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:52, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:53, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:54, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:55, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:56, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:57, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:58, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:59, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:60, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:61, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:62, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:63, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:64, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:65, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:66, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:67, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:68, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:69, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:70, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:71, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:72, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:73, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:74, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:75, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:76, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:77, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:78, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:79, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:80, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:81, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:82, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:83, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:84, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:85, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:86, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:87, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:88, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:89, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:90, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:91, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:92, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:93, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:94, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:95, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:96, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:97, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:98, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:99, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:100, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:101, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:102, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:103, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:104, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:105, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:106, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:107, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:108, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:109, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:110, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:111, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:112, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:113, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:114, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:115, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:116, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:117, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:118, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:119, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:120, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:121, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:122, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:123, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:124, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:125, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:126, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:127, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:128, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:129, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:130, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:131, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:132, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:133, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:134, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:135, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:136, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:137, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:138, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:139, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:140, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:141, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:142, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:143, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:144, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:145, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:146, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:147, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:148, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:149, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:150, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:151, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:152, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:153, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:154, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:155, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:156, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:157, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:158, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:159, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:160, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:161, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:162, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:163, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:164, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:165, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:166, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:167, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:168, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:169, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:170, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:171, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:172, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:173, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:174, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:175, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:176, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:177, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:178, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:179, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:180, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:181, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:182, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:183, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:184, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:185, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:186, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:187, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:188, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:189, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:190, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:191, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:192, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:193, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:194, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:195, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:196, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:197, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:198, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:199, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:200, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:201, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:202, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:203, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:204, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:205, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:206, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:207, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:208, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:209, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:210, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:211, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:212, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:213, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:214, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:215, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:216, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:217, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:218, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:219, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:220, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:221, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:222, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:223, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:224, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:225, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:226, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:227, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:228, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:229, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:230, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:231, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:232, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:233, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:234, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:235, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:236, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:237, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:238, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:239, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:240, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:241, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:242, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:243, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:244, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:245, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:246, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:247, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:248, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:249, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:250, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:251, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:252, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:253, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:254, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:255, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:256, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:257, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:258, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:259, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:260, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:261, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:262, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:263, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:264, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:265, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:266, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:267, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:268, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:269, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:270, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:271, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:272, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:273, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:274, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:275, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:276, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:277, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:278, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:279, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:280, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:281, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:282, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:283, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:284, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:285, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:286, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:287, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:288, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:289, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:290, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:291, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:292, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:293, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:294, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:295, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:296, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:297, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:298, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:299, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:300, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:301, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:302, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:303, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:304, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:305, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:306, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:307, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:308, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:309, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:310, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:311, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:312, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:313, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:314, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:315, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:316, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:317, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:318, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:319, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:320, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:321, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:322, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:323, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:324, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:325, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:326, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:327, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:328, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:329, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:330, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:331, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:332, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:333, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:334, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:335, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:336, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:337, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:338, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:339, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:340, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:341, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:342, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:343, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:344, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:345, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:346, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:347, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:348, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:349, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:350, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:351, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:352, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:353, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:354, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:355, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:356, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:357, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:358, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:359, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:360, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:361, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:362, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:363, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:364, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:365, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:366, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:367, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:368, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:369, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:370, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:371, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:372, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:373, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:374, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:375, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:376, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:377, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:378, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:379, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:380, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:381, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:382, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:383, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:384, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:385, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:386, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:387, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:388, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:389, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:390, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:391, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:392, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:393, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:394, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:395, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:396, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:397, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:398, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:399, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:400, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:401, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:402, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:403, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:404, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:405, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:406, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:407, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:408, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:409, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:410, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:411, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:412, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:413, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:414, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:415, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:416, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:417, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:418, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:419, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:420, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:421, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:422, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:423, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:424, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:425, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:426, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:427, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:428, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:429, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:430, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:431, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:432, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:433, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:434, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:435, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:436, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:437, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:438, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:439, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:440, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:441, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:442, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:443, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:444, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:445, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:446, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:447, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:448, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:449, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:450, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:451, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:452, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:453, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:454, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:455, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:456, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:457, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:458, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:459, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:460, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:461, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:462, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:463, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:464, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:465, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:466, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:467, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:468, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:469, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:470, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:471, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:472, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:473, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:474, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:475, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:476, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:477, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:478, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:479, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:480, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:481, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:482, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:483, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:484, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:485, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:486, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:487, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:488, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:489, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:490, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:491, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:492, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:493, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:494, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:495, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:496, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:497, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:498, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:499, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:500, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:501, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:502, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:503, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:504, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:505, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:506, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:507, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:508, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:509, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:510, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:511, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:512, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:513, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:514, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:515, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:516, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:517, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:518, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:519, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:520, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:521, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:522, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:523, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:524, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:525, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:526, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:527, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:528, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:529, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:530, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:531, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:532, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:533, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:534, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:535, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:536, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:537, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:538, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:539, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:540, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:541, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:542, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:543, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:544, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:545, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:546, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:547, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:548, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:549, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:550, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:551, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:552, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:553, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:554, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:555, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:556, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:557, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:558, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:559, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:560, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:561, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:562, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:563, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:564, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:565, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:566, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:567, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:568, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:569, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:570, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:571, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:572, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:573, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:574, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:575, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:576, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:577, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:578, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:579, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:580, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:581, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:582, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:583, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:584, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:585, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:586, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:587, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:588, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:589, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:590, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:591, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:592, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:593, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:594, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:595, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:596, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:597, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:598, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:599, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:600, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:601, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:602, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:603, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:604, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:605, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:606, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:607, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:608, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:609, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:610, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:611, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:612, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:613, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:614, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:615, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:616, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:617, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:618, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:619, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:620, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:621, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:622, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:623, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:624, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:625, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:626, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:627, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:628, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:629, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:630, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:631, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:632, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:633, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:634, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:635, beta_u:-2, theoretical_oracle_value:0 -1 -1
+theoretical_loop_count:636, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:637, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:638, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:639, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:640, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:641, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:642, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:643, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:644, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:645, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:646, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:647, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:648, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:649, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:650, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:651, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:652, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:653, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:654, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:655, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:656, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:657, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:658, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:659, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:660, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:661, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:662, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:663, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:664, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:665, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:666, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:667, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:668, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:669, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:670, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:671, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:672, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:673, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:674, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:675, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:676, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:677, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:678, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:679, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:680, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:681, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:682, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:683, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:684, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:685, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:686, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:687, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:688, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:689, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:690, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:691, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:692, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:693, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:694, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:695, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:696, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:697, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:698, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:699, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:700, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:701, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:702, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:703, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:704, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:705, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:706, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:707, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:708, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:709, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:710, beta_u:2, theoretical_oracle_value:-1 -1
+theoretical_loop_count:711, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:712, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:713, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:714, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:715, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:716, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:717, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:718, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:719, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:720, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:721, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:722, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:723, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:724, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:725, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:726, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:727, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:728, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:729, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:730, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:731, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:732, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:733, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:734, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:735, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:736, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:737, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:738, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:739, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:740, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:741, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:742, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:743, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:744, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:745, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:746, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:747, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:748, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:749, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:750, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:751, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:752, beta_u:1, theoretical_oracle_value:-1 0
+theoretical_loop_count:753, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:754, beta_u:-1, theoretical_oracle_value:0 -1 0
+theoretical_loop_count:755, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:756, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:757, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:758, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:759, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:760, beta_u:0, theoretical_oracle_value:0 0
+theoretical_loop_count:761, beta_u:0, theoretical_oracle_value:0 0
