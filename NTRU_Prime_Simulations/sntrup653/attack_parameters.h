@@ -1,4 +1,4 @@
-#define NO_TESTS 2
+#define NO_TESTS 1
 
 #define COLL_CHECK 1
 #define DO_PRINT 1

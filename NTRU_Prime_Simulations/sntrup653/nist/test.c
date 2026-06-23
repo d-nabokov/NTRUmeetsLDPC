@@ -3146,7 +3146,7 @@ int main()
                     long double **oracle_accuracy = init_oracle_accuracy();
                     FalsePositiveNegativePositionalOracle *pr_oracle = create_fp_fn_oracle(oracle_accuracy, 1);   
 
-                    for (int coll_index = collision_index; coll_index < collision_index + 1; coll_index++)
+                    for (int coll_index = 0; coll_index < p; coll_index++)
                     {     
                         char filename[256];
                         #if (DO_PRINT == 1)
